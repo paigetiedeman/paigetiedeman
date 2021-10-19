@@ -1,17 +1,36 @@
-<div align="center>
-### Hi there, I'm Paige Tiedeman 👋
+<div align="center">
+            
+### Hey There, I'm Paige Tiedeman (She/Her)
+  
+<a href="https://www.linkedin.com/in/paige-tiedeman/"><img src="https://img.shields.io/badge/-@paigetiedeman-0077B5?style=for-the-badge&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/paige-tiedeman/" alt="LinkedIn Badge"></a>
+  
+</div>
 
-Here are some ideas to get you started:
+## I'm Currently Learning @ <a href="https://www.epicodus.com/">Epicodus</a>
+* C#
+* JavaScript
+* ReactJs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Paige's GitHub stats](https://github-readme-stats.vercel.app/api?username=paigetiedeman&show_icons=true&theme=dracula)
-](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 Other Tools I Use:
+* HTML5
+* Bootstrap
+* JQuery
+* CSS3
+* Unit Testing
+
+## ⚡ Fun Facts: 
+  * Halloween is my favorite holiday 🎃
+  * I have multiple medals in Scottish Dancing 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+  * Good Books and True Crime Podcasts 📕
+
+##
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=paigetiedeman&show_icons=true&theme=dracula"/>
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paigetiedeman&layout=compact"/>
+</a>
 </div>
