@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**paigetiedeman/paigetiedeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center>
+### Hi there, I'm Paige Tiedeman 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Paige's GitHub stats](https://github-readme-stats.vercel.app/api?username=paigetiedeman&show_icons=true&theme=dracula)
+](https://github.com/anuraghazra/github-readme-stats)
+</div>
