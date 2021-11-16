@@ -27,7 +27,7 @@
 </p>
 
 ## ⚡ Fun Facts: 
-  * Once when I backpacked through Europe a famous painter took me to tour her castle. 🏰
+  * When I backpacked through Europe a famous painter took me to tour her castle. 🏰
   * Halloween is my favorite holiday 🎃
   * I have multiple medals in Scottish Dancing 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
