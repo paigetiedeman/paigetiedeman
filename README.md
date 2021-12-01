@@ -1,10 +1,11 @@
-
-
-            
+<div align="center">           
 <h1> Hey There, I'm Paige Tiedeman (She/Her) </h1>
   
-<a href="https://www.linkedin.com/in/paige-tiedeman/"><img src="https://img.shields.io/badge/-@paigetiedeman-0077B5?style=for-the-badge&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/paige-tiedeman/" alt="LinkedIn Badge"></a>
-  
+<a href="https://www.linkedin.com/in/paige-tiedeman/">
+            <img src="https://img.shields.io/badge/-@paigetiedeman-0077B5?style=for-the-badge&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/paige-tiedeman/" alt="LinkedIn Badge">
+</a>
+<img style="display:inline-block; float:right" alt="Profile views counter" width="140px" height="28px" src="https://komarev.com/ghpvc/?username=PaigeTiedeman&style=flat-square&color=blue">
+</div>
 
 ## 🌱 I'm Currently Learning @ <a href="https://www.epicodus.com/">Epicodus</a>
 <a href="https://github.com/anuraghazra/github-readme-stats" align="right">
